@@ -14,6 +14,7 @@ A fully functional Blogging platform built using HTML, Bootstrap, AJAX, and PHP
 9. Filter results by tag
 10. Follow creators
 11. Follow tags
+12. Spam Filtering
 ### Future
 1. Admin page
 2. HTML blog posts
