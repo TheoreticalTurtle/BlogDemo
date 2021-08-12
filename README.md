@@ -1,5 +1,6 @@
 # BlogDemo
 A fully functional Blogging platform built using HTML, Bootstrap, AJAX, and PHP
+You can find a working example of this project at https://www.cameronmorrow.com/BlogDemo/
 
 ## Features
 ### Current
